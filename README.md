@@ -3,7 +3,7 @@
 A simple Python script to log keystrokes in real-time, designed for educational purposes and personal monitoring.
 
 # ⚠️ Disclaimer: Ethical Use Required ⚠️
-This script is provided for educational purposes only, to demonstrate how a basic keylogger works. * It is crucial to understand and adhere to all applicable laws and ethical guidelines regarding privacy and surveillance.* Unauthorized use of this software to monitor others without their explicit consent is illegal and unethical.
+This script is provided for educational purposes only, to demonstrate how a basic keylogger works. *It is crucial to understand and adhere to all applicable laws and ethical guidelines regarding privacy and surveillance.* Unauthorized use of this software to monitor others without their explicit consent is illegal and unethical.
 
 Always ensure you have proper authorization before deploying or using this script on any system.
 
