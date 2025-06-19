@@ -45,11 +45,10 @@ From this point, any keystrokes you type will be logged.
 
 Output
 All logged keystrokes will be appended to a file named `real_time_keystrokes.txt` in the same directory where the script is executed.
-
 Example `real_time_keystrokes.txt` content:
 
 `Hello[Key.space]World![Key.enter]This[Key.space]is[Key.space]a[Key.space]test.[Key.enter]`
 
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
