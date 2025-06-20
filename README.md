@@ -20,7 +20,7 @@ This script uses the `pynput` library.
 # Installation
 1. Clone the repository (or download the script):
 
-`git clone https://github.com/Ubuntu-Dekiru/PRODIGY_CS_04.git
+`git clone https://github.com/Adedoyin-Abass/PRODIGY_CS_04.git
 cd PRODIGY_CS_O4`
 
 2. Install the pynput library:
